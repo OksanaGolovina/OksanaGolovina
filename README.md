@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @OksanaGolovina
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently learning data analysis with Yandex.Praktikum
-- 💞️ I’m looking to collaborate on interesting projects, such as open data on real estate in Russia, health and social issies, market research, etc
+- 👀 I’m interested in DA/DS
+- 🌱 I graduated from Yandex.Praktikum
 - 📫 How to reach me: 
 e-mail: jaberoksana@mail.ru
 telegram: https://t.me/Oksana_O_Golovina
